@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "builtins_type.h": "c",
+        "builtins_env.h": "c",
+        "tab_completion.h": "c",
+        "history.h": "c",
+        "builtins_cd.h": "c",
+        "builtins_pwd.h": "c",
+        "builtins_echo.h": "c",
+        "builtins_alias.h": "c",
+        "env.h": "c"
+    }
+}

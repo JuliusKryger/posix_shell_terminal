@@ -1,0 +1,10 @@
+# Set environment variables
+export PATH=$PATH:/usr/local/bin
+
+# Aliases
+alias ll='ls -l'
+alias la='ls -a'
+alias l='ls -CF'
+
+# Custom prompt
+export PS1='\u@\h:\w\$ '
